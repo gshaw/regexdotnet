@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regex", "Regex.csproj", "{1A96E844-D3FB-4E2E-9165-A9E3D154485E}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{1A96E844-D3FB-4E2E-9165-A9E3D154485E}.Debug.ActiveCfg = Debug|.NET
+		{1A96E844-D3FB-4E2E-9165-A9E3D154485E}.Debug.Build.0 = Debug|.NET
+		{1A96E844-D3FB-4E2E-9165-A9E3D154485E}.Release.ActiveCfg = Release|.NET
+		{1A96E844-D3FB-4E2E-9165-A9E3D154485E}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
