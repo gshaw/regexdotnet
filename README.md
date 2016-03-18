@@ -10,5 +10,5 @@ Regex won't teach you regular expressions but it will help you create regular ex
 
 ## Author
 
-Gerry Shaw (Jan 7, 2002)
+Gerry Shaw (Jan 7, 2002)  
 http://gshaw.ca
